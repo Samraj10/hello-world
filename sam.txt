@@ -1,14 +1,1 @@
-<<<<<<< HEAD
-this is new sam file
-=======
-<<<<<<< HEAD
-# Pull base image 
-From tomcat:8-jre8 
-
-# Maintainer 
-MAINTAINER "valaxytech@gmail.com" 
-COPY ./webapp.war /usr/local/tomcat/webapps
-=======
-Hello sam
->>>>>>> daebe9248b68a52873cf4ffd21d96a8df5a5cc1e
->>>>>>> fecfa615a52fff7fd25a85a252ce510ed1217620
+hi ..this is from slide2222222222222222222222 branch
