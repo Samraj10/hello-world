@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-this change is from slide2
+this change is from slide2 ....push without checkout to main....mean merge and push from feature branch
 =======
 hi ..this is from slide2222222222222222222222 branch
 >>>>>>> slide2
